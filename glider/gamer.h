@@ -21,7 +21,8 @@ body {
 	height: 100vh;
 	width: 100vw;
 	background-color: skyblue;
-  background-image:url('https://tradelink2022.000webhostapp.com/dreamy-clouds.gif');
+  background-image:url('https://thumbs.gfycat.com/ComfortableWarmAuk-size_restricted.gif');
+
   background-repeat:no-repeat;
   background-size:cover;
 }

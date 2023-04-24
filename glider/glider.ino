@@ -18,9 +18,9 @@ long duration;
 float distanceCm;
 float distanceInch;
 
-const char* ssid = "hippo";
+const char* ssid = "Tesla";
 
-const char* password = "samurai123";
+const char* password = "hulk10000";
 
 ESP8266WebServer server(80);
 
@@ -125,10 +125,10 @@ void loop(void)
   distanceInch = distanceCm * CM_TO_INCH;
   
   // Prints the distance on the Serial Monitor
-  Serial.print("Distance (cm): ");
-  Serial.println(distanceCm);
-  Serial.print("Distance (inch): ");
-  Serial.println(distanceInch);
+ // Serial.print("Distance (cm): ");
+ // Serial.println(distanceCm);
+ // Serial.print("Distance (inch): ");
+ // Serial.println(distanceInch);
   
   delay(10);
   
